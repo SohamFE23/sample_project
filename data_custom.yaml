@@ -1,0 +1,6 @@
+train: C:\Users\soham\sample_project\train
+val: C:\Users\soham\sample_project\val
+
+nc: 2
+
+names: ["helmet","jacket"]
